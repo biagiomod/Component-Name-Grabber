@@ -1,0 +1,17 @@
+{
+  "name": "Component Name Grabber",
+  "id": "1534572835425717917",
+  "api": "1.0.0",
+  "main": "main.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
